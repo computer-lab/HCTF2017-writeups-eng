@@ -3,10 +3,9 @@ Translations of HCTF writeups to english.
 
 ## WEB:
 
-
 ### babycrack
 
-Reference: https://github.com/LoRexxar/HCTF2017-babycrack
+Translated from: https://github.com/LoRexxar/HCTF2017-babycrack
 
 "The challenge I think is quite clear, you could even say that this kind of js
 is basically the most common.
@@ -26,10 +25,12 @@ one solution!
 
 ### boring-website
 
+Translated from: https://github.com/hammerorz/HCTF2017-easy-sign-and-boring-website
+
 First we look at the site's index and see `www.zip`, when we download and open
 it we see the source code:
 
-```
+```php
 <?php
 echo "Bob received a mission to write a login system on someone else's serve
 r, and he he only finished half of the work<br />";
